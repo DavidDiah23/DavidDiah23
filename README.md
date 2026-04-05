@@ -4,13 +4,13 @@
 
 I specialize in crafting modern web applications that balance **engineering robustness** with **clean, intuitive UX**.
 
-- 🛰️ Currently building: **eMotion** (hiker safety tracking) & **FarmConnect**
+- 🛰️ Currently building: **eMotion** & **FarmConnect**
 - ⚡ Core focus: **React, Next.js, Supabase, performance optimization**
 - 🎯 Mission: bridging the gap between **solid backend systems** and **polished frontend experiences**
 - 🤝 Open to collaborating on ambitious, impactful web platforms
 
 💬 Ask me about: Next.js architecture, Supabase patterns, frontend performance  
-⚙️ Fun fact: I once spent 3 hours debugging a missing semicolon
+⚙️ Fun fact: I once spent 3 hours debugging a missing semicolon  
 
 ---
 
@@ -45,19 +45,23 @@ I specialize in crafting modern web applications that balance **engineering robu
 
 ## 🧩 Featured Projects
 
-### 🛰️ eMotion  
-**Hiker tracking & safety platform**  
-- Real-time location tracking architecture  
-- Built with Next.js + Supabase  
-- Focused on reliability, responsiveness, and safety-first UX  
+### 🛰️ eMotion *(Solo Project)*  
+**Mobile-first tracking & safety platform for high-altitude adventures**  
+
+- Leverages **phone sensors + GPS** for real-time tracking and safety monitoring  
+- Designed to balance **user engagement (gamification)** with **critical safety features**  
+- Focus on **offline resilience, performance, and reliability in extreme conditions**  
+- Inspired by real-world trekking experience  
 
 ---
 
-### 🌾 FarmConnect  
-**Connecting farmers and buyers through a digital platform**  
-- Full-stack marketplace system  
-- Designed for accessibility and usability  
-- Focus on scalable backend and clean UI  
+### 🌾 FarmConnect *(Solo Project)*  
+**Marketplace & financial platform for smallholder farmers in Kenya**  
+
+- Direct-to-consumer marketplace eliminating exploitative intermediaries  
+- Integrated **micro-loan application system** via MFIs  
+- Built-in **training hub** for sustainable farming practices  
+- Focus on **accessibility, scalability, and economic impact**  
 
 ---
 
