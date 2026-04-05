@@ -80,11 +80,31 @@ I specialize in crafting modern web applications that balance **engineering robu
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=DavidDiah23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=DavidDiah23&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDiah23&theme=dark&hide_border=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=DavidDiah23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com?user=DavidDiah23&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDiah23&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
+
+## 📈 Contribution Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidDiah23&theme=tokyo-night&hide_border=true)
+
+---
+
+## 🧾 Profile Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidDiah23&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidDiah23&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidDiah23&theme=tokyonight)
+
+---
+
+## 🏆 Achievements
+![](https://github-profile-trophy.vercel.app/?username=DavidDiah23&theme=tokyonight&no-frame=true&margin-w=10)
 
 ## 📈 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidDiah23&theme=github-dark)
